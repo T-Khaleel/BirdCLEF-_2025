@@ -2,6 +2,8 @@
 
 This project was developed as part of the Machine Learning in Practice course and focuses on improving audio classification performance by using multiple feature representations. The solution was designed and evaluated in the context of the BirdCLEF+ 2025 Kaggle competition, which tasked participants with identifying avian and other species from audio recordings.
 
+## Final Report:
+The final report, Machine_Learning_in_Practice_Project_2_Group_28.pdf, provides a comprehensive documentation of our methodology, experimentation, and evaluation.
 
 ## Project Overview
 We experimented with mel-spectrogram, MFCC, and CQT feature representations extracted from raw audio files. These were used as inputs to various pretrained CNN models (RegNetY, ResNet, EfficientNet) for multi-label classification.
